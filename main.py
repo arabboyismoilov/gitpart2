@@ -14,3 +14,4 @@
 
 # start command implement qilindi
 # help command implement qilindi
+# settings command implement qilindi
